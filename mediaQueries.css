@@ -1,3 +1,9 @@
+@media screen and (min-width: 1400px) {
+    .shirt-project-container{
+        max-width: 35%;
+    }
+}
+
 @media screen and (max-width: 1400px) {
     #profile {
         height: 83vh;
