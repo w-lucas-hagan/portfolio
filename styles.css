@@ -337,6 +337,10 @@ section {
     flex-direction: column;
 }
 
+.shirt-project-container {
+    max-width: 35%;
+}
+
 .article-container {
     display: flex;
     text-align: initial;
